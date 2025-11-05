@@ -13,7 +13,7 @@
  * Referencia:
  * https://www.haskell.org/tutorial/
  *
- * Software: GHC (Glasgow Haskell Compiler)
+ * Software: Compilador OnlineGDB (Haskell)
  *
  * Editor: Mariel Sanchez
  * Creado: 5 Nov 25
